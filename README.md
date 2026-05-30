@@ -15,8 +15,8 @@ Identify customers likely to churn so the business can take **proactive retentio
 
 | Model               | Accuracy | ROC-AUC |
 |---------------------|----------|---------|
-| Logistic Regression | XX.X%    | XX.X%   |
-| **Random Forest**   | **XX.X%**| **XX.X%** |
+| Logistic Regression | 80%    | 79%   |
+| **Random Forest**   | **82%**| **83%** |
 
 > ✏️ Replace XX.X% with your actual numbers after running the code
 
