@@ -111,7 +111,7 @@ All 7 charts + churn_predictions.csv will be generated automatically.
 **Vaishnavi Wagh** — Entry-level Data Analyst | Pune, Maharashtra
 🔗 [LinkedIn](https://www.linkedin.com/in/vaishnavi-wagh-data-analyst) | [GitHub](https://github.com/vaishnaviwagh2108)
 
-*Actively looking for Data Analyst / BI Analyst roles in Pune.*
+*Actively looking for Data Analyst / BI Analyst roles in Pune,Mumbai,Banglore.*
 
 ---
 
